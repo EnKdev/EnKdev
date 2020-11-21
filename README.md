@@ -13,7 +13,6 @@ I am a single developer who develops stuff in .NET and C# for most of the time, 
 ----
 ## Finished projects:
 - [EnKdev.SessionPass](https://github.com/enkdev/sessionpass) - A pseudo-authentication library written in C# to authenticate sessions for applications
-- [SessionPass-Backend](https://github.com/enkdev/sessionpass-backend) - The authentication backend for EnKdev.SessionPass, written in PHP
 
 ----
 ## Got questions? Here's how to reach me:
