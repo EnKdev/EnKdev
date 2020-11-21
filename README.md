@@ -5,10 +5,15 @@ My name's Niklas, you can just call me Nik or EnK_ though, doesn't really matter
 
 I am a single developer who develops stuff in .NET and C# for most of the time, but also occasionally fiddles around with other langs.
 
-------
+----
 ## A short list of things I do:
-- 🔭 Currently working on: [TourLogger](https://github.com/enkdev/tourlogger) | [HAL-Map](https://github.com/enkdev/hal-map)
+- 🔭 Currently working on: [TourLogger](https://github.com/enkdev/tourlogger) | [HAL-Map](https://github.com/enkdev/hal-map) | [libSPass](https://github.com/enkdev/libspass)
 - 🌱 Currently learning: C++
+
+----
+## Finished projects:
+- [EnKdev.SessionPass](https://github.com/enkdev/sessionpass) - A pseudo-authentication library written in C# to authenticate sessions for applications
+- [SessionPass-Backend](https://github.com/enkdev/sessionpass-backend) - The authentication backend for EnKdev.SessionPass, written in PHP
 
 ----
 ## Got questions? Here's how to reach me:
