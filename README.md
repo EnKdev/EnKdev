@@ -12,7 +12,7 @@ I am a single developer who develops stuff in .NET and C# for most of the time, 
 
 ----
 ## Finished projects:
-- [EnKdev.SessionPass](https://github.com/enkdev/sessionpass) - A pseudo-authentication library written in C# to authenticate sessions for applications
+- [EnKdev.SessionPass](https://github.com/EnKdev/EnKdev.SessionPass) - A pseudo-authentication library written in C# to authenticate sessions for applications
 
 ----
 ## Got questions? Here's how to reach me:
