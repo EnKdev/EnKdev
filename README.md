@@ -17,8 +17,12 @@ I am a single developer who develops stuff in .NET and C# for most of the time, 
 ----
 ## Got questions? Here's how to reach me:
 
-- 💬 Discord - EnK_#1337
+- 📫 Discord - EnK_#1337
 
+----
+## Want to support me by leaving a small tip so I can get myself the caffeine-kick that a dev like me needs daily?
+
+- 💬 [Ko-Fi](https://ko-fi.com/enkdev) - My Ko-Fi Page! (Entirely optional though, you're not obliged to tip or to do anything <3)
 ----
 ## ⚡ Fun fact: Colibris fly backwards.
 
