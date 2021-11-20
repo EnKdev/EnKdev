@@ -7,7 +7,7 @@ I am a single developer who develops stuff in .NET and C# for most of the time, 
 
 ----
 ## A short list of things I do:
-- 🔭 Currently working on: [TourLogger](https://github.com/enkdev/tourlogger) | [HAL-Map](https://github.com/enkdev/hal-map) | [TourLogger-Backend](https://github.com/enkdev/TourLogger-Backend)
+- 🔭 Currently working on: [TourLogger](https://github.com/enkdev/tourlogger)
 - 🌱 Currently learning: C++
 
 ----
