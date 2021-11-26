@@ -1,4 +1,7 @@
 ### Software from Germany, made in Germany... by just one dude.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6241AD)
+
 👋 Heya to everyone who stumbled onto my profile.
 
 My name's Niklas, you can just call me Nik or EnK_ though, doesn't really matter.
