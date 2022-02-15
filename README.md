@@ -22,6 +22,13 @@ I am a single developer who develops stuff in .NET and C# for most of the time, 
 
 - 💬 [Ko-Fi](https://ko-fi.com/enkdev) - My Ko-Fi Page! (Entirely optional though, you're not obliged to tip or to do anything <3)
 ----
+## My Github Stats
+
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnKdev&show_icons=true&count_private=true&title_color=4f8cc9&text_color=9f9f9f&icon_color=4f8cc9&bg_color=181818" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnKdev&layout=compact&title_color=4f8cc9&text_color=9f9f9f&icon_color=4f8cc9&bg_color=181818" height="180">
+</p>
+----
 ## ⚡ Fun fact: Colibris fly backwards.
 
 <!--
