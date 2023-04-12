@@ -10,12 +10,12 @@ I am a single developer who develops stuff in .NET and C# for most of the time, 
 
 ----
 ## A short list of things I do:
-- 🔭 Currently working on: [TourLogger](https://github.com/enkdev/tourlogger)
-- 🌱 Currently learning: C++
+- 🔭 Currently working on: [Ocarina of Time Item Tracker](https://github.com/EnKdev/OoTItemTracker)
 
 ----
 ## Finished projects:
 - [SessionPass](https://github.com/EnKdev/SessionPass) - A collection of pseudo-authentication libraries written in C# to authenticate sessions for applications
+- [TourLogger](https://github.com/EnKdev/TourLogger) - A pretty much extensive companion tool for players of ETS2/ATS to log their tours along with relevant data (Distance driven, Fuel that has been used, freight, etc) into one central database!
 
 ----
 ## Want to support me by leaving a small tip so I can get myself the caffeine-kick that a dev like me needs daily?
