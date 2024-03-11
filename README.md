@@ -1,4 +1,4 @@
-### Software from Germany, made in Germany.
+### Software made by one german dude.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H6241AD)
 
