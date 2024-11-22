@@ -11,7 +11,6 @@ I am a single developer who develops stuff in .NET and C# for most of the time, 
 ----
 ## A short list of things I do:
 - 🔭 Currently working on: [Ocarina of Time Item Tracker](https://github.com/EnKdev/EnKdevs-Item-Trackers)
-- 🔭 Currently working on: [Wiiki.Mkw.ModManager](https://github.com/Riddim-GLiTCH/MKW-Modman)
 
 ----
 ## Currently learning:
