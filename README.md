@@ -15,6 +15,7 @@ I am a single developer who develops stuff in .NET and C# for most of the time, 
 ----
 ## Currently learning:
 - 🌱 Kotlin
+- 🌱 Delphi/Pascal
 
 ----
 ## Finished projects:
